@@ -1,3 +1,5 @@
+#Contoh cara menghapus nilai pad list phyton
+
 list = ['fisika', 'kimia', 1993, 2017]
 
 print(list)
