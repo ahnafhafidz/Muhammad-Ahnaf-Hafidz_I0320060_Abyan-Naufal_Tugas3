@@ -7,7 +7,7 @@ print("dict['Nama']: ", dict['Nama'])
 print("dict['Hobi']: ", dict['Hobi'])
 print("dict['Sosial media']: ", dict['Sosial media'])
 print("dict['Lagu favorit']: ", dict['Lagu favorit'])
-print("dict['Makanan favorit']: ", dict['Makanan favorit']
+print("dict['Makanan favorit']: ", dict['Makanan favorit'])
 print("dict", dict)
 
 #mengubah nilai dict
