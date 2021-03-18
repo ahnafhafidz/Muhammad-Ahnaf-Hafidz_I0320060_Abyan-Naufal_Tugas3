@@ -3,9 +3,9 @@
 list = ['Alam', 'Iffa', 'Nana', 'Ojat', 'Issa', 'Hani', 'Titus', 'Nadya', 'Faqih', 'Ilham']
 print("List Teman: ", list)
 
-print("Nama pada indeks 4: ", list[4])
-print("Nama pada indeks 6: ", list[6])
-print("Nama pada indeks 7: ", list[7])
+print("Nama teman pada indeks 4: ", list[4])
+print("Nama teman pada indeks 6: ", list[6])
+print("Nama teman pada indeks 7: ", list[7])
 
 list[3] = 'Aji'
 list[5] = 'Firnas'
@@ -13,7 +13,7 @@ list[9] = 'Tazkiya'
 print("List teman baru yang diganti: ", list)
 
 list.append('Hafizh')
-list.append('Tito')
+list.append('Nauval')
 print("Tambahan teman pada list: ", list)
 
 for teman in list :
