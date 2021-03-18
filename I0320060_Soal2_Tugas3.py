@@ -20,9 +20,11 @@ print("dict['Sosial media'] yang sudah diubah: ", dict['Sosial media'])
 print("dict yang sudah diubah: ", dict)
 
 #menghapus elemen dict
+
 del dict['Makanan favorit']
 print("dict setelah dihapus: ", dict)
 
 #menambahkan item dict
+
 dict.update({'Hobi':'Mendaki gunung, Bermain game, dan Bermain basket'})
 print("dict setelah ditambah: ", dict)
